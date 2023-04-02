@@ -86,11 +86,9 @@ Check map for the saved weights at every 1000th iterations.
 
 We test the model on test image, giving the below result.
 
-![prediction](https://github.com/akshayravi13/fire-detection-yolov4tiny/tree/main/results/predictions.jpg)
+![predictions](https://user-images.githubusercontent.com/85955796/229372358-330c6cca-c084-4bda-a06c-8306af998e5e.jpg)
+
 
 We test the model on test video, giving the below result.
 
 ![result](https://github.com/akshayravi13/fire-detection-yolov4tiny/tree/main/results/results.avi)
-
-
-
