@@ -11,6 +11,7 @@ Create a folder named 'training' inside 'yolov4tiny' folder
 
 ## 3) Label your dataset
 We will be using around 1000 images of fire and annotating and labelling it using LabelImg tool. 
+The images have been collected from various Kaggle datasets and by taking frames from Youtube videos.
 
 Install LabelImg by 'pip install labelimg' in your local system and annotate the images in yolo format. 
 
