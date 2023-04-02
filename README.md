@@ -1,5 +1,6 @@
 # fire-detection-yolov4tiny
 
+# Procedure
 
 ## 1) Creating Folders
 Create a folder named 'yolov4tiny' in Google Drive 
