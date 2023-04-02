@@ -93,4 +93,5 @@ We test the model on test image, giving the below result.
 
 We test the model on test video, giving the below result.
 
-![result](https://github.com/akshayravi13/fire-detection-yolov4tiny/tree/main/results/results.avi)
+https://user-images.githubusercontent.com/85955796/229372774-c19702b7-f6ed-42b6-8eec-fd2fe407b980.mp4
+
